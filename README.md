@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Luc Urlings and currently I am on a break of working as a software engineer. This winterseason I will spend my time as a ⛷️ Ski Instructor 🎿 in Canada
+I am Luc Urlings and currently I am on a break of working as a software engineer. This winterseason I will spend my time as a ⛷️ Ski Instructor 🎿 in Canada 🍁
 
 <!--
 **LucUrlings/LucUrlings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
