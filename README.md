@@ -25,6 +25,7 @@ More badges: https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/m
 ### 🌱 Currently learning
 - [Neural Networks from Scratch](https://nnfs.io/)
 - [My own healthy recipe website](https://fitchef-recipes-app.vercel.app/login)
+- [My homelab](https://status.lucurlings.nl)
 
 ### 📬 Find me at
 
